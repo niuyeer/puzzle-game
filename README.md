@@ -1,2 +1,2 @@
 # puzzle-game
-A puzzle game with two game modes.
+A jigsaw puzzle game with two game modes.
