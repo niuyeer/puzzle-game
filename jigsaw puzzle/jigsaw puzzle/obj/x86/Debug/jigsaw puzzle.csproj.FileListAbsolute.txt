@@ -1,0 +1,10 @@
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\bin\Debug\jigsaw puzzle.exe
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\bin\Debug\jigsaw puzzle.pdb
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\obj\x86\Debug\jigsaw_puzzle.Properties.Resources.resources
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\obj\x86\Debug\jigsaw puzzle.csproj.GenerateResource.Cache
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\obj\x86\Debug\jigsaw puzzle.exe
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\obj\x86\Debug\jigsaw puzzle.pdb
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\obj\x86\Debug\jigsaw puzzle.csprojResolveAssemblyReference.cache
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\obj\x86\Debug\jigsaw_puzzle.FormMenu.resources
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\obj\x86\Debug\jigsaw_puzzle.FormRisk.resources
+D:\三级项目\自由拼图\jigsaw puzzle\jigsaw puzzle\obj\x86\Debug\jigsaw_puzzle.FormPractice.resources
